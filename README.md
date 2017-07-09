@@ -1,6 +1,6 @@
 # Modern JavaScript test starter
 
-A small collection of packages to quickly and easily unit js files using ES6 & Tape
+A small collection of packages to quickly and easily unit test js files using ES6 & Tape
 
 ## Dependencies
 

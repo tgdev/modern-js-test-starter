@@ -1,7 +1,7 @@
 {
   "name": "modern-js-test-starter",
   "version": "1.0.0",
-  "description": "A small collection of packages to quickly and easily unit js files using ES6 & Tape",
+  "description": "A small collection of packages to quickly and easily unit test js files using ES6 & Tape",
   "main": "index.js",
   "scripts": {
     "test": "babel-tape-runner src/**/*.spec.js | faucet"
